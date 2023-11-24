@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java-code-basics/Thread" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-code-basics/java-concurrency" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-code-basics/java-oops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-code-basics/SOLID" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
