@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½˜ä¨8ÚÔÜÀÅ1
+~	java:S116"_Rename this field "DestinationAccountId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ÷”Öùÿÿÿÿ8ÚÔÜÀÅ1
+y	java:S116"ZRename this field "SourceAccountId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ôùªùÿÿÿÿ8ÚÔÜÀÅ1
+t
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(äÇéñÿÿÿÿÿ8£üÜÀÅ1

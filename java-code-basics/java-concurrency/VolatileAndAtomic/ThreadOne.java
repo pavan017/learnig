@@ -14,7 +14,7 @@ public class ThreadOne implements Runnable{
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println("running currunt thread");
+            System.out.println("running current thread");
         }
     }
 }

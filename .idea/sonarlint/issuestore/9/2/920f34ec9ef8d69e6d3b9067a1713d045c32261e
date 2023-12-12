@@ -1,0 +1,10 @@
+
+J
+java:S1068"(Remove this unused "make" private field.(Οζγωÿÿÿÿ8ό—χƒΐ1
+P
+java:S1068".Remove this unused "flameColor" private field.(χ…ζϋÿÿÿÿ8Δÿ„ΐ1
+K
+java:S1068")Remove this unused "model" private field.(³—φϋÿÿÿÿ8ό—χƒΐ1
+L
+java:S1068"*Remove this unused "volume" private field.(γ›γÿÿÿÿÿ8ό—χƒΐ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ίτ†χ
