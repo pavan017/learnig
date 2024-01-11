@@ -21,7 +21,7 @@ public class Main {
         Thread.sleep(2000);
         inMemoryDataStore.add(new Pair("key1", "value_in_transaction"));
         System.out.println(inMemoryDataStore.getValue("key1"));
-//        Transaction.rollback(inMemoryDataStore);
+        Transaction.rollback(inMemoryDataStore);
         System.out.println(inMemoryDataStore.getValue("key1"));
         Transaction.commit(inMemoryDataStore);
 

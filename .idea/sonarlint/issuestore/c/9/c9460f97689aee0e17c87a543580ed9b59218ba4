@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ÖÎøÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(÷Ïé8ùÛÍ•Æ1
+˜
+java:S1130"|Remove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from constructor's body.(÷Ïé8»»²—Æ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ûû£üÿÿÿÿ8ùÛÍ•Æ1

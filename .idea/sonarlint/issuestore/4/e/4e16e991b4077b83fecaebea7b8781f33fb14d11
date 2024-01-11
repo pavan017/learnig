@@ -1,6 +1,25 @@
 
+I
+java:S1602V",Remove useless curly braces around statement(è¿Ã¸8¹’ÄÅ1
+L
+java:S3740T"/Provide the parametrized type for this generic.(—š½Ë8èÑ­ÃÅ1
 Q
-java:S3740"/Provide the parametrized type for this generic.(ˆı¶Úşÿÿÿÿ8ÔÜîÁÅ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëğá8êñèÁÅ1
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(í°á¹ûÿÿÿÿ8ÔÜîÁÅ1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ùù¾ğ8êñèÁÅ1
+java:S3740O"/Provide the parametrized type for this generic.(û¥´ùÿÿÿÿ8Æ¹÷ÂÅ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í°á¹ûÿÿÿÿ8Ò²ÿÃÅ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëğá8ıô¨ÂÅ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í°á¹ûÿÿÿÿ8ˆ»ÄÅ1
+\
+java:S1118N":Add a private constructor to hide the implicit public one.(úúÀœüÿÿÿÿ8èÑ­ÃÅ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(®ÈÎşÿÿÿÿ8÷àªÂÅ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í°á¹ûÿÿÿÿ8«‹€ÄÅ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(®ÈÎşÿÿÿÿ8÷àªÂÅ1
+L
+java:S3740P"/Provide the parametrized type for this generic.(¹ÿßè8Æ¹÷ÂÅ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ùóñºüÿÿÿÿ8Å’ıÃÅ1
+Q
+java:S3740^"/Provide the parametrized type for this generic.(ÕïÌ•ıÿÿÿÿ8—ÿ¶ÃÅ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ˆı¶Úşÿÿÿÿ8ıô¨ÂÅ1

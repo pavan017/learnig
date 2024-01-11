@@ -1,6 +1,5 @@
 package ConditionClass;
 
-import java.util.concurrent.BlockingDeque;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -34,12 +33,13 @@ public class ConditionClass {
         Thread thread3 = new Thread(new Runnable() {
             @Override
             public void run() {
-                try {
-                    Thread.sleep(5000);
-                    method2();
-                 } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+                method2();
+//                try {
+//                    Thread.sleep(5000);
+//                    method2();
+//                 } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
             }
         });
 

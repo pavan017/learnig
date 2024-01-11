@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java-code-basics/java-oops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-code-basics/DesignPattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-code-basics/SOLID" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

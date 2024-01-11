@@ -1,8 +1,8 @@
 
-l	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢·»^
-]
-java:S1128"=Remove this unused import 'java.lang.management.MonitorInfo'.(Œ¬œ…øÿÿÿÿ8Âû“…À1
-L
-java:S1068",Remove this unused "keyboard" private field.(ïæû¦üÿÿÿÿ8ÃÄ°…À1
-K
-java:S1068"+Remove this unused "monitor" private field.(¼»†åúÿÿÿÿ8Û”Ø…À1
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢·»^
+N
+java:S1068",Remove this unused "keyboard" private field.(ïæû¦üÿÿÿÿ8ÃÄ°…À1
+_
+java:S1128"=Remove this unused import 'java.lang.management.MonitorInfo'.(Œ¬œ…øÿÿÿÿ8Âû“…À1
+M
+java:S1068"+Remove this unused "monitor" private field.(¼»†åúÿÿÿÿ8Û”Ø…À1

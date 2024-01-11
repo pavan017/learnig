@@ -1,31 +1,31 @@
-Requirement 
-================
-
-=> Players able to play this gave online 
-=> Able to accept move from player 
-=> Move should be defined as per standard 
-=> System should maintain a log of all moves 
-=> Player can undo a move within a window of few seconds 
-=> Should we consider timer 
+##Requirement 
 
 
+- Players able to play this gave online 
+- Able to accept move from player 
+- Move should be defined as per standard 
+- System should maintain a log of all moves 
+- Player can undo a move within a window of few seconds 
+- Should we consider timer 
 
 
-Component 
-==========
-Board
+
+
+##Component 
+
+###Board
     int horizontalDiamentions
     int verticalDiamentions
     Box[][] boardStatus;  
     updateBoardAfteraValidMove(Piece, currentPosition, nextPosition);
 
 
-Box
+###Box
     Position boxPosition;
     Piece currentPiece
     String color
     
-Player 
+###Player 
     Integer id
     String playerColor
     PlayerStats 
@@ -34,14 +34,14 @@ Player
 
 
 
-Address
+###Address
     Street 
     City 
     state 
     Country 
 
 
-PlayerStats 
+###PlayerStats 
     playerId
     totalPlayedGame
     totalWin
@@ -50,7 +50,7 @@ PlayerStats
 
     
 
-ChessGame
+###ChessGame
     Board board
     Player player1
     Player player2;
@@ -61,7 +61,7 @@ ChessGame
     makeMove(Player, Piece,  nextPosition);
     evaluateResult();
 
-ChessController
+###ChessController
         
     
     initializeGame
@@ -72,23 +72,23 @@ ChessController
     
     
     
-Position
+###Position
     int horizontalDim;
     int verticalDim;
 
 
 
-PieceMove
+###PieceMove
     getNextPossibleMove();
 
-Piece
+###Piece
     String color
 
-    king extend Piece, impliment PieceMove
-        Position currentPosition
+###king extend Piece, impliment PieceMove
+    Position currentPosition
         
-    Queen
-        position
+###Queen
+    position
         
 
 

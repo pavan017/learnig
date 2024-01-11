@@ -1,0 +1,25 @@
+
+m	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó™’É8¼øÃñÆ1
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‰•®şÿÿÿÿ8¼øÃñÆ1
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(”÷ï¯şÿÿÿÿ8ò­ÜñÆ1
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(×‘À¿8½øàñÆ1
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ş±ÍñÆ1
+]	java:S125"<This block of commented-out lines of code should be removed.(²¬ç‚ùÿÿÿÿ8›£ªñÆ1
+0
+java:S1220""Move this file to a named package.
+Q
+java:S3740{"/Provide the parametrized type for this generic.(ïş†¤ÿÿÿÿÿ8ƒÄ«ñÆ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ø¡ààûÿÿÿÿ8›£ªñÆ1
+]	java:S125"<This block of commented-out lines of code should be removed.(é·¿¤ÿÿÿÿÿ8à›«ñÆ1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(‡¤øƒøÿÿÿÿ8îËØñÆ1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8›£ªñÆ1
+L
+java:S3740“"/Provide the parametrized type for this generic.(¨…8ƒÄ«ñÆ1
+[
+java:S1155p">Use isEmpty() to check whether the collection is empty or not.(ú±ùæ8ƒÄ«ñÆ1
+M
+java:S3740"/Provide the parametrized type for this generic.(çíøì8ƒÄ«ñÆ1
+Q
+java:S3740n"/Provide the parametrized type for this generic.(é‡ÊÓøÿÿÿÿ8ƒÄ«ñÆ1
+Q
+java:S3740{"/Provide the parametrized type for this generic.(ïş†¤ÿÿÿÿÿ8ƒÄ«ñÆ1

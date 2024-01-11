@@ -1,0 +1,7 @@
+
+U
+java:S1854,":Remove this useless assignment to local variable "future".(æ•“šþÿÿÿÿ
+F
+java:S1481,"+Remove this unused "future" local variable.(æ•“šþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆëßÅ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ˆÕ¹Ð

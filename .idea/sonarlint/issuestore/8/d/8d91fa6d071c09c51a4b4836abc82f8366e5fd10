@@ -1,0 +1,51 @@
+
+R
+java:S3740¦"/Provide the parametrized type for this generic.(òœÏÀøÿÿÿÿ8³üó¥Ë1
+
+java:S1319Ş"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÛÅ¬$8ƒ÷í†Ë1
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(ß¯½¨8ü‰Ş¥Ë1
+’
+java:S1319ñ"oThe type of the "data" object should be an interface such as "List" rather than the implementation "ArrayList".(„¢®ùÿÿÿÿ8ƒ÷í†Ë1
+\
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(óı¿8Ä­ó¥Ë1
+P
+java:S1135ò"2Complete the task associated to this TODO comment.(…ïœ†8‰Ú§¥Ë1
+W
+java:S3400‰"9Remove this method and declare a constant for this value.(®‚Ü8‰Ú§¥Ë1
+n
+java:S1149“"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÄåßË8‰¨ı¤Ë1
+U
+java:S1135ê"2Complete the task associated to this TODO comment.(ÿ¤€íıÿÿÿÿ8‰Ú§¥Ë1
+M
+java:S3740¤"/Provide the parametrized type for this generic.(µÂî8³üó¥Ë1
+U
+java:S1135˜"2Complete the task associated to this TODO comment.(ÿ¤€íıÿÿÿÿ8‰Ú§¥Ë1
+\
+java:S1155Í">Use isEmpty() to check whether the collection is empty or not.(†ÄåŠ8ÖÁ–¥Ë1
+n
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(„ö›ü8‰¨ı¤Ë1
+s
+java:S1149Ê"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ê‚¿¯ûÿÿÿÿ8ÖÁ–¥Ë1
+0
+java:S1220""Move this file to a named package.
+n
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(„ö›ü8†´ù†Ë1
+P
+java:S1135‰"2Complete the task associated to this TODO comment.(®‚Ü8‰Ú§¥Ë1
+R
+java:S3740Ÿ"/Provide the parametrized type for this generic.(òœÏÀøÿÿÿÿ8Ä­ó¥Ë1
+s
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾Ë†ùÿÿÿÿ8ÜËç¥Ë1
+X	java:S125 "<This block of commented-out lines of code should be removed.(’ïŒ8‰Ú§¥Ë1
+s
+java:S1149Ê"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ê‚¿¯ûÿÿÿÿ8ÖÁ–¥Ë1
+J
+java:S1172",Remove this unused method parameter "count".(›ÕÎÙ8ââÿ¤Ë1
+T
+java:S1135M"2Complete the task associated to this TODO comment.(«±ƒÿüÿÿÿÿ8ƒ÷í†Ë1
+n
+java:S1149“"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÄåßË8†´ù†Ë1
+U
+java:S1135"2Complete the task associated to this TODO comment.(¯ÙÂıÿÿÿÿ8‰Ú§¥Ë1
+U
+java:S3655«"7Call "Optional#isPresent()" before accessing the value.(ÈÇì¿8—ç¦Ë1

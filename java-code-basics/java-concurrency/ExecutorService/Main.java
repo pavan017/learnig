@@ -16,13 +16,20 @@ public class Main {
         //It's good to have same number of threads in thread pool as number of cpu cores
         System.out.println("Number Of cores= "+coreCount);
 
-//        //Fixed thread pool
+//        Fixed thread pool
+//             you can use this to create fixed thread pool which you can use to run the task
+//             When you submit of a task it will get stored in blocking queue which is thread safe
+//             And when thread is avilable in the thread pool it pick the new task from thread pool and start execution
+
 //        ExecutorService executorService = Executors.newFixedThreadPool(10);
 //        for(int i=0; i<100; i++) {
 //            executorService.execute(new ExecutorServiceTask());
 //        }
 
 //        //Cached Thread pool
+//              It will incrementally create thread to hold any new task which came up
+//              It uses synchronous queue which and holds only one task at a given point of time
+
 //        ExecutorService cachedThreadPoolService = Executors.newCachedThreadPool();
 //        for(int i=0; i<100; i++){
 //            cachedThreadPoolService.execute(new ExecutorServiceTask());

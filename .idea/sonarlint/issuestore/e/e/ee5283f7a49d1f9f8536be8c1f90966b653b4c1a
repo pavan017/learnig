@@ -1,0 +1,14 @@
+
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(¸êªª
+]	java:S125!"<This block of commented-out lines of code should be removed.(¹¢–úÿÿÿÿ8ì–öòÅ1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÞåñÆ
+d
+java:S1854."NRemove this useless assignment to local variable "scheduledThreadPoolService".(˜±®®
+V	java:S125B"<This block of commented-out lines of code should be removed.(—±ì„øÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(´™ì¤ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‘—¬
+V	java:S1258"<This block of commented-out lines of code should be removed.(Âú«¸ûÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(È“ù‡ùÿÿÿÿ
+U
+java:S1481."?Remove this unused "scheduledThreadPoolService" local variable.(˜±®®
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™¶Œ

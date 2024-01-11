@@ -1,0 +1,30 @@
+
+F
+java:S2446C"0"notify" may not wake up the appropriate thread.(´¨©Ÿ
+U
+java:S2274>":Remove this call to "wait" or move it into a "while" loop.(¤Æ¯™ùÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+d
+java:S18443"NThe "Condition.await(...)" method should be used instead of "Object.wait(...)"(ö‰Ï½
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ»±
+>
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ëËÍšÿÿÿÿÿ
+>
+java:S1604!"(Make this anonymous inner class a lambda(ÉãÃ®
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(â‘Ýê
+T
+java:S1155=">Use isEmpty() to check whether the collection is empty or not.(Œ¸‰Ÿ
+i
+java:S1844>"NThe "Condition.await(...)" method should be used instead of "Object.wait(...)"(¤Æ¯™ùÿÿÿÿ
+K
+java:S24468"0"notify" may not wake up the appropriate thread.(›ø¨¨ýÿÿÿÿ
+\
+java:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Y
+java:S2276<"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°
+P
+java:S22743":Remove this call to "wait" or move it into a "while" loop.(ö‰Ï½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š¿‰¥øÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ùÄ©™

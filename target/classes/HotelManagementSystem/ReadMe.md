@@ -64,7 +64,7 @@
     RemoveRooomForAHotel
     updatePrice
 
-### Receptionist extend User impliment Search 
+### Receptionist extend User implement Search 
 
 ###Address
     String street 

@@ -1,11 +1,11 @@
 
+G
+java:S1068"*Remove this unused "author" private field.(á™Ï8­…İÀ1
 K
 java:S2201
 ".The return value of "replaceAll" must be used.(“šïé8ÅÌƒ‚À1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÉèªşÿÿÿÿ
 E
 java:S1068"(Remove this unused "name" private field.(Ë¥¼8¨ÜÀ1
 U	java:S106"9Replace this use of System.out or System.err by a logger.(”“î€8“ßŒ‚À1
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÉèªşÿÿÿÿ
-G
-java:S1068"*Remove this unused "author" private field.(á™Ï8­…İÀ1
 U	java:S106"9Replace this use of System.out or System.err by a logger.(”“î€8•‚À1
