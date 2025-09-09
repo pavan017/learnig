@@ -1,13 +1,13 @@
 we have to follow some pattern for lld code 
 
 Requirement and goals of the system 
-1=> user able to withdrow money 
-2=> user able to check the balance 
-3=> user able to update personal details like password/ address etc 
-4=> provide proper error message for any user which is not possible 
-5=> able to print the account statement 
-6=> able to deposit the cash 
-7=> able to transfer the funds
+1=> User able to withdraw money 
+2=> User able to check the balance 
+3=> User able to update personal details like password/ address etc 
+4=> Provide proper error message for any user which is not possible 
+5=> Able to print the account statement 
+6=> Able to deposit the cash
+7=> Able to transfer the funds
 
 
 Component 

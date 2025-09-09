@@ -1,4 +1,4 @@
-##Docker 
+## Docker 
 
 - when you have multiple env then it would be really deficult to replicate
 - To solve this problem using docker container 
@@ -6,29 +6,29 @@
 - these are very light waiting and each container have its own operating system
 - when we are biuilding any real world application then we are mostly building custom image
   for according to your requirement. For example, for an application you required ubuntu,
-  javan, mysql etc then you have to crate and images with these dependency and publish this
+  javan, mysql etc then you have to create an images with these dependency and publish this
   image for future.
 
 
-###Container 
+### Container 
 
-- if you run 'docker run -it ubantu' then it try to fetch the images from local
-  if it is already downloaed if not it will go to "hub.docker.com" and download
+- If you run 'docker run -it ubantu' then it try to fetch the images from local
+  If it is already downloaded if not it will go to "hub.docker.com" and download
   images and run the container.
 - hub.docker.com have publicaly available images. its like github for images 
-- the container is isolated form the machine where it is running
+- The container is isolated form the machine where it is running
 - Container is just like empty machine which can run images using container resource.
-- container are isolated and not share the data in between
+- Container are isolated and not share the data in between
 
 
-###Images
+### Images
 - images are like operating system and container is the machine/env where these
   images can run 
 
   
 
 ### How container work internally 
-- an image is running inside container and lessing incoming request to some port, and as we know
+- An image is running inside container and lessing incoming request to some port, and as we know
   that container are isolated so any request from browser will show not found until 
   we expose port number outside that container. We have to use following command for that
   "docker run -it -p 1025:1025 <images>"  which means that first port from machine will get expose to
@@ -37,7 +37,7 @@
 
 
 ### How to containerise nodejs application  
-- we have to create "Dockerfile" under the application directory
+- We have to create "Dockerfile" under the application directory
 - Docker file have all the configurattion which is required to run the application 
 
 
@@ -84,7 +84,7 @@
 - How docker container connected with internet. Docker stablished a bridge between host
   machine and container and all the container connected to internet using this bridge.
 - The by default network is bridge
-- we have other option for docker network on of them is host.
+- we have other option for docker network one of them is host.
 - The host option is not required exposing port. the application port is automatically
 available in host machine
 - if you choose none as docker network option then this container not having internet access

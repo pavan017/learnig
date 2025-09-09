@@ -1,6 +1,6 @@
-##Requirement
+## Requirement
 
-- Able to add new Stock 
+-  Able to add new Stock 
 -  Able to see the stock price in a timeperiod
 -  Buy/Sell Stock 
 -  Able to place order
@@ -9,11 +9,11 @@
 -  Able to create user
 -  Able to see the potfolio
 -  Able to see the order made by a given user 
-- Able to make payment through this platform 
+-  Able to make payment through this platform 
 -  Can create watchlist
-- Able to get update
+-  Able to get update
 
-##Flow 
+## Flow 
 
 1. Admin can add stock to the stock broker 
 2. User make crud Operation on stock broker
