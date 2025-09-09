@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8710bd47-89f9-4f9d-9eb7-d7ba5cfb5759" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HelpingTeamMembers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ownership.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLD/AutoSuggestion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLD/CriteriaToChooseDatabase.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLD/DatabaseIndex.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLD/ML/LLM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HLD/SSL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LLD/KeyValueDatastore/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_base_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_controls_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Maven__org_openjfx_javafx_graphics_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HLD/GenerateUniqueid.md" beforeDir="false" afterPath="$PROJECT_DIR$/../HLD/GenerateUniqueid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LLD/MeetingScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-code-basics/DesignPattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-code-basics/DesignPattern/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zLloM7F3wL48Y5lTOP04xox75Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/pavankumar/learnig/Behaviour"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8710bd47-89f9-4f9d-9eb7-d7ba5cfb5759" name="Changes" comment="" />
+      <created>1751518407692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751518407692</updated>
+    </task>
+    <servers />
+  </component>
+</project>
